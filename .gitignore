@@ -1,0 +1,14 @@
+# Ignore build files
+/build/
+/dist/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore C++ object files
+*.o
+*.obj
